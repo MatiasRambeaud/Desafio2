@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Coca Cola",
+        "description": "Bebida",
+        "price": "100",
+        "stock": "200",
+        "id": 1
+    },
+    {
+        "title": "Doritos",
+        "description": "Snack",
+        "price": "200",
+        "stock": "20",
+        "id": 2
+    },
+    {
+        "title": "Eduardo",
+        "description": "que hace aca una persona",
+        "price": "0",
+        "stock": "1",
+        "id": 3
+    }
+]
